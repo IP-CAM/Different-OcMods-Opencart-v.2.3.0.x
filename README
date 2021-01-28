@@ -1,11 +1,10 @@
-Аддоны (модификаторы) для OpenCart. Проверены на  OC v.2.3.0
+Addons (modifiers) for OpenCart.  Tested on OC v.2.3.0
+1. DisableEmptyorder - prohibits the formation of an empty order.
 
-1. DisableEmptyOrder - запрещает формирование пустого заказа.
+2. Instok - adds a display of the availability of goods ("In stock", "pre-ordered" ETC) in the product cards in the catalog.
 
-2. InStok - добавляет отображение наличия товара (статус "в наличии", "доступен предзаказ" etc) в  карточках товара в каталоге.
+3. LinksinMenu - adds to the top menu (directory menu) section for the pages for which the "Do not display in Footer" parameter is set.  Used to add the partition of the articles to the directory menu.
 
-3. LinksInMenu -  добавляет в верхнее меню (меню каталога) раздел для страниц, для которых установлен параметр "не отображать в footer'е".   Используется для добавления раздела статей к меню каталога. 
+4. PriceByRequest - for goods with the wrong price (price = 0) installs instead of zero price value "Price on request".
 
-4. PriceByRequest -  для товаров с незаданной ценой (цена = 0) устанавливает вместо нулевой цены значение "Цена по запросу".
-
-5. Watermark -  добавляет ко всем изображениям (за исключением баннеров) watermark. Файл watermark.png долже находиться в /images/
+5. Watermark - adds to all images (with the exception of banners) Watermark.  File watermark.png worth it to be in / Images /
